@@ -5,3 +5,4 @@ click:
       min: 1000
       max: 1000000000
       commission: 3
+      cashback: 1
