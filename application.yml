@@ -1,9 +1,7 @@
-# add postgres data
 click:
   uz:
     const:
       min: 1000
       max: 1000000000
       commission: 3
-    service:
-      token: dGhpcyBpcyBjbGljay11eiBhcHBsaWNhdGlvbg== 
+      cashback: 1
